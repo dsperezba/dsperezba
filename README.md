@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hola, soy David 👋
 
-<!--
-**dsperezba/dsperezba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Scientist y especialista en automatización con IA, basado en Bogotá, Colombia.
+Trabajo en la intersección de estadística, Python e inteligencia artificial para
+ayudar a empresas latinoamericanas a automatizar procesos y tomar mejores decisiones
+con datos.
 
-Here are some ideas to get you started:
+## 🛠️ Stack técnico
+- **Lenguajes:** Python, SQL
+- **IA:** Claude API, OpenAI API
+- **Automatización:** Make.com, n8n
+- **Datos:** pandas, numpy, matplotlib
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contacto
+- LinkedIn: linkedin.com/in/dsperezba
+- Email: david.perezb99@gmail.com
