@@ -13,4 +13,4 @@ con datos.
 
 ## 📫 Contacto
 - LinkedIn: linkedin.com/in/dsperezba
-- Email: david.perezb99@gmail.com
+- Email: dsperezba@gmail.com
